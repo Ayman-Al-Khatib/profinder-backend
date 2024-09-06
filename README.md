@@ -39,7 +39,7 @@
 
 # **ProFinder** 🌟
 
-**ProFinder** is a platform that connects professionals with clients to create valuable work opportunities. 🤝 Whether you're seeking freelance gigs, looking to hire experts, or aiming to collaborate with professionals, ProFinder offers a robust system that ensures the rights of both parties. 💼🔍 The app provides a powerful mechanism for secure transactions 🔒, a comprehensive search for companies 🏢, and a way to enhance your profile by sharing your CV 📄 to increase job opportunities. [It also features a beautiful and eye-catching design that makes navigation easy and enjoyable](#screenshots). 🌟 Start using ProFinder today to unlock new possibilities! ✨
+**ProFinder** is a platform that connects professionals with clients to create valuable work opportunities. 🤝 Whether you're seeking freelance gigs, looking to hire experts, or aiming to collaborate with professionals, ProFinder offers a robust system that ensures the rights of both parties. 💼🔍 The app provides a powerful mechanism for secure transactions 🔒, a comprehensive search for companies 🏢, and a way to enhance your profile by sharing your CV 📄 to increase job opportunities. [It also features a beautiful and eye-catching design that makes navigation easy and enjoyable](https://profinder-screens.vercel.app). 🌟 Start using ProFinder today to unlock new possibilities! ✨
 
 ## Main Sections 🚀
 
@@ -424,182 +424,12 @@ These robust security measures are designed to protect users’ data and money, 
 
 ## **Developers**
 
-| **Name**               | **Role**               | **Technology**    | **Social Media**                                           | **Email**                   |
+| **Name**               | **Role**               | **Technology**    | **Linked In**                                           | **Email**                   |
 |------------------------|------------------------|-------------------|--------------------------------------------------------|-----------------------------|
 | **[Ayman Al-khatib](https://github.com/Ayman-Al-Khatib)**     | Backend Developer      | Express.js        | [@Ayman-Al-Khatib](https://www.linkedin.com/in/ayman-al-khatib) | ayman.eng.job@gmail.com      |
 | **[Ahmad Ajajeh](https://github.com/Ahmad-Ajajeh)**        | Backend Developer      | Express.js        | [@Ahmad-Ajajeh](https://www.linkedin.com/in/ahmed-ajajeh-b999b6175/) | ajajeh356@gmail.com       |
 | **[Ahmed Nour Haidar](https://github.com/Ahmad-Nour-Haidar)**   | Mobile Developer       | Flutter           | [@Ahmed-Nour-Haider](https://www.linkedin.com/in/ahmad-nour-haidar/)                  | example.email@gmail.com      |
 | **[Omar Bkdash](https://github.com/Omar-Bkdash-7)**        | Mobile Developer       | Flutter           | [@Omar-Bkdash](https://www.linkedin.com/in/omar-bkdashh)                       | example.email@gmail.com      |
 | **[Osama Saddik](https://github.com/osamasaddik)**               | Frontend Developer     | React.js          | [@Osama-Saddik](https://www.linkedin.com/in/osama-saddik-8b814b259)                              | saddikosama@gmail.com      |
-| **Alaa Haidar**       | UI & UX Designer       | Figma             | [@Alaa-Haidar](https://www.instagram.com/_alaa.haidar)      | N/A                         |
+| **Alaa Haidar**       | UI & UX Designer       | Figma             | [@Alaa-Haidar](https://www.linkedin.com/in/alaa-haidar)      | alaahaidaar@gmail.com                         |
 
-
-
-# Screenshots
-
-
-<img src="https://img.shields.io/badge/Mobile_Application_📱-1E90FF?" alt="Mobile Application" height="50"/>
-
-The mobile application offers a user-friendly interface and intuitive design to enhance the user experience. Below are the mockups showcasing various features and screens of the application.
-
-<div style="text-align: center;">
-  <div style="margin: 0; padding: 0;">
-    <img src="screenshot/mobile/dark/1.jpeg" style="width: 32%;" />
-    <img src="screenshot/mobile/dark/2.jpeg" style="width: 32%;" />
-    <img src="screenshot/mobile/dark/3.jpeg" style="width: 32%; " />
-  </div>
-  <div style="margin: 0; padding: 0;">
-    <img src="screenshot/mobile/dark/4.jpeg" style="width: 32%;" />
-    <img src="screenshot/mobile/dark/5.jpeg" style="width: 32%;" />
-    <img src="screenshot/mobile/dark/6.jpeg" style="width: 32%; " />
-  </div>
-  <div style="margin: 0; padding: 0;">
-    <img src="screenshot/mobile/dark/7.jpeg" style="width: 32%;" />
-    <img src="screenshot/mobile/dark/8.jpeg" style="width: 32%;" />
-    <img src="screenshot/mobile/dark/9.jpeg" style="width: 32%; " />
-  </div>
-  <div style="margin: 0; padding: 0;">
-    <img src="screenshot/mobile/dark/10.jpeg" style="width: 32%;" />
-    <img src="screenshot/mobile/dark/11.jpeg" style="width: 32%;" />
-    <img src="screenshot/mobile/dark/12.jpeg" style="width: 32%; " />
-  </div>
-
- <div style="margin: 0; padding: 0;">
-    <img src="screenshot/mobile/dark/13.jpeg" style="width: 32%;" />
-    <img src="screenshot/mobile/both/1.jpeg" style="width: 32%;" />
-    <img src="screenshot/mobile/light/1.jpeg" style="width: 32%; " />
-  </div>
-
-
-  <div style="margin: 0; padding: 0;">
-    <img src="screenshot/mobile/light/2.jpeg" style="width: 32%;" />
-    <img src="screenshot/mobile/light/3.jpeg" style="width: 32%;" />
-    <img src="screenshot/mobile/light/4.jpeg" style="width: 32%; " />
-  </div>
-  <div style="margin: 0; padding: 0;">
-    <img src="screenshot/mobile/light/5.jpeg" style="width: 32%;" />
-    <img src="screenshot/mobile/light/6.jpeg" style="width: 32%;" />
-    <img src="screenshot/mobile/light/7.jpeg" style="width: 32%; " />
-  </div>
-  <div style="margin: 0; padding: 0;">
-    <img src="screenshot/mobile/light/8.jpeg" style="width: 32%;" />
-    <img src="screenshot/mobile/light/9.jpeg" style="width: 32%;" />
-    <img src="screenshot/mobile/light/10.jpeg" style="width: 32%; " />
-  </div>
-  <div style="margin: 0; padding: 0;">
-    <img src="screenshot/mobile/light/11.jpeg" style="width: 32%;" />
-    <img src="screenshot/mobile/light/12.jpeg" style="width: 32%;" />
-    <img src="screenshot/mobile/light/13.jpeg" style="width: 32%; " />
-  </div>
-
-
-</div>
-
----
-
-<img src="https://img.shields.io/badge/Admin_Dashboard_Web_🔧-FFA500?" alt="Admin Dashboard Web 🔧" height="50"/>
-
-The **Admin Dashboard** provides a web interface to manage user activities and edit content. Below are screenshots showing its light and dark modes for admins.
-
-<div style="text-align: center;">
-    <img src="screenshot/web/admin/dark/1.jpeg" />
-    <img src="screenshot/web/admin/dark/2.jpeg" />
-    <img src="screenshot/web/admin/dark/3.jpeg" />
-    <img src="screenshot/web/admin/dark/4.jpeg" />
-    <img src="screenshot/web/admin/dark/5.jpeg" />
-    <img src="screenshot/web/admin/dark/6.jpeg" />
-    <img src="screenshot/web/admin/dark/7.jpeg" />
-    <img src="screenshot/web/admin/dark/8.jpeg" />
-    <img src="screenshot/web/admin/dark/9.jpeg" />
-    <img src="screenshot/web/admin/dark/10.jpeg" />
-    <img src="screenshot/web/admin/dark/11.jpeg" />
-    <img src="screenshot/web/admin/dark/12.jpeg" />
-    <img src="screenshot/web/admin/dark/14.jpeg" />
-    <img src="screenshot/web/admin/dark/15.jpeg" />
-    <img src="screenshot/web/admin/dark/16.jpeg" />
-    <img src="screenshot/web/admin/dark/17.jpeg" />
-    <img src="screenshot/web/admin/dark/18.jpeg" />
-    <img src="screenshot/web/admin/dark/19.jpeg" />
-    <img src="screenshot/web/admin/dark/20.jpeg" />
-    <img src="screenshot/web/admin/dark/21.jpeg" />
-    <img src="screenshot/web/admin/dark/22.jpeg" />
-    <img src="screenshot/web/admin/dark/23.jpeg" />
-    <img src="screenshot/web/admin/dark/24.jpeg" />
-    <img src="screenshot/web/admin/dark/25.jpeg" />
-    <img src="screenshot/web/admin/dark/26.jpeg" />
-    <img src="screenshot/web/admin/dark/27.jpeg" />
-    <img src="screenshot/web/admin/dark/28.jpeg" />
-    <img src="screenshot/web/admin/dark/29.jpeg" />
-    <img src="screenshot/web/admin/dark/30.jpeg" />
-    <img src="screenshot/web/admin/dark/31.jpeg" />
-    <img src="screenshot/web/admin/dark/32.jpeg" />
-    <img src="screenshot/web/admin/dark/33.jpeg" />
-    <img src="screenshot/web/admin/dark/34.jpeg" />
-    <img src="screenshot/web/admin/dark/35.jpeg" />
-    <img src="screenshot/web/admin/dark/36.jpeg" />
-    <img src="screenshot/web/admin/dark/37.jpeg" />
-    <img src="screenshot/web/admin/dark/38.jpeg" />
-    <img src="screenshot/web/admin/dark/39.jpeg" />
-    <img src="screenshot/web/admin/dark/40.jpeg" />
-    <img src="screenshot/web/admin/dark/41.jpeg" />
-    <img src="screenshot/web/admin/dark/42.jpeg" />
-    <img src="screenshot/web/admin/dark/43.jpeg" />
-    <img src="screenshot/web/admin/light/1.jpeg" />
-    <img src="screenshot/web/admin/light/2.jpeg" />
-    <img src="screenshot/web/admin/light/3.jpeg" />
-    <img src="screenshot/web/admin/light/4.jpeg" />
-    <img src="screenshot/web/admin/light/5.jpeg" />
-    <img src="screenshot/web/admin/light/6.jpeg" />
-    <img src="screenshot/web/admin/light/7.jpeg" />
-    <img src="screenshot/web/admin/light/8.jpeg" />
-    <img src="screenshot/web/admin/light/9.jpeg" />
-    <img src="screenshot/web/admin/light/10.jpeg" />
-    <img src="screenshot/web/admin/light/11.jpeg" />
-    <img src="screenshot/web/admin/light/12.jpeg" />
-    <img src="screenshot/web/admin/light/14.jpeg" />
-    <img src="screenshot/web/admin/light/15.jpeg" />
-    <img src="screenshot/web/admin/light/16.jpeg" />
-    <img src="screenshot/web/admin/light/17.jpeg" />
-    <img src="screenshot/web/admin/light/18.jpeg" />
-    <img src="screenshot/web/admin/light/19.jpeg" />
-    <img src="screenshot/web/admin/light/20.jpeg" />
-    <img src="screenshot/web/admin/light/21.jpeg" />
-    <img src="screenshot/web/admin/light/22.jpeg" />
-    <img src="screenshot/web/admin/light/23.jpeg" />
-    <img src="screenshot/web/admin/light/24.jpeg" />
-    <img src="screenshot/web/admin/light/25.jpeg" />
-    <img src="screenshot/web/admin/light/26.jpeg" />
-    <img src="screenshot/web/admin/light/27.jpeg" />
-    <img src="screenshot/web/admin/light/28.jpeg" />
-    <img src="screenshot/web/admin/light/29.jpeg" />
-    <img src="screenshot/web/admin/light/30.jpeg" />
-    <img src="screenshot/web/admin/light/31.jpeg" />
-    <img src="screenshot/web/admin/light/32.jpeg" />
-    <img src="screenshot/web/admin/light/33.jpeg" />
-    <img src="screenshot/web/admin/light/34.jpeg" />
-    <img src="screenshot/web/admin/light/35.jpeg" />
-    <img src="screenshot/web/admin/light/36.jpeg" />
-    <img src="screenshot/web/admin/light/37.jpeg" />
-    <img src="screenshot/web/admin/light/38.jpeg" />
-    <img src="screenshot/web/admin/light/39.jpeg" />
-    <img src="screenshot/web/admin/light/40.jpeg" />
-    <img src="screenshot/web/admin/light/41.jpeg" />
-    <img src="screenshot/web/admin/light/42.jpeg" />
-    <img src="screenshot/web/admin/light/43.jpeg" />
-</div>
-
----
-
-<img src="https://img.shields.io/badge/Super_Admin_Dashboard_Web_🛠️-8B0000?" alt="Super Admin Dashboard Web" height="50"/>
-
-Below are new screenshots from the **Super Admin** Dashboard section. Only unique screens that are not already featured in the Admin Dashboard are included.
-
-<div style="text-align: center;">
-     <img src="screenshot/web/super-admin/dark/1.jpeg" />
-     <img src="screenshot/web/super-admin/dark/2.jpeg" />
-     <img src="screenshot/web/super-admin/dark/3.jpeg" />
-     <img src="screenshot/web/super-admin/light/1.jpeg" />
-     <img src="screenshot/web/super-admin/light/2.jpeg" />
-     <img src="screenshot/web/super-admin/light/3.jpeg" />
-
-</div>
