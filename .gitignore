@@ -1,0 +1,25 @@
+# Ignore environment files
+.env
+
+# Ignore node modules
+node_modules/
+
+# Ignore logs folder
+logs/
+
+# Ignore idea folder
+idea/
+.idea
+#
+.VSCodeCounter/
+
+uploads/
+
+storage/
+
+task.txt
+.vercel
+test_socket.js
+error.log
+combined.log
+vercel.json

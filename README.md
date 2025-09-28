@@ -433,7 +433,7 @@ These robust security measures are designed to protect users’ data and money, 
 | **Name**               | **Role**               | **Technology**    | **Linked In**                                           | **Email**                   |
 |------------------------|------------------------|-------------------|--------------------------------------------------------|-----------------------------|
 | **[Ayman Al-khatib](https://github.com/Ayman-Al-Khatib)**     | Backend Developer      | Express.js        | [@Ayman-Al-Khatib](https://www.linkedin.com/in/ayman-al-khatib) | ayman.alkhatib.ite@gmail.com      |
-| **[Ahmad Ajajeh](https://github.com/Ahmad-Ajajeh)**        | Backend Developer      | Express.js        | [@Ahmad-Ajajeh](https://www.linkedin.com/in/ahmed-ajajeh-b999b6175/) | ajajeh356@gmail.com       |
+| **[Ahmad Ajajeh](https://github.com/AhmadAjajeh)**        | Backend Developer      | Express.js        | [@Ahmad-Ajajeh](https://www.linkedin.com/in/ahmed-ajajeh-b999b6175/) | ahmadkajajeh@gmail.com       |
 | **[Ahmed Nour Haidar](https://github.com/Ahmad-Nour-Haidar)**   | Mobile Developer       | Flutter           | [@Ahmed-Nour-Haider](https://www.linkedin.com/in/ahmad-nour-haidar/)                  | ahmadnourhaidar@gmail.com      |
 | **[Omar Bkdash](https://github.com/Omar-Bkdash-7)**        | Mobile Developer       | Flutter           | [@Omar-Bkdash](https://www.linkedin.com/in/omar-bkdashh)                       | omarbkdash7@gmail.com      |
 | **[Osama Saddik](https://github.com/osamasaddik)**               | Frontend Developer     | React.js          | [@Osama-Saddik](https://www.linkedin.com/in/osama-saddik-8b814b259)                              | saddikosama@gmail.com      |
